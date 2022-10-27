@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sovan Paul
 - A software Engineer working in IT for over 5+ years on Retail/Supply Chain Domain over all across USA and Europe clients. 
-- 🌱 I’m currently learning Data Science and ML and their implementation to solve various business problems
+- 🌱 I’m currently learning and Solving business problems using Data Science and ML.
 
 
 <!---
